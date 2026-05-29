@@ -85,8 +85,10 @@ Shell       deployment glue, infra workflows
 - I am usually happiest close to the runtime: Kubernetes, containers, brokers, media pipelines, event loops, sockets, and deployment edges.
 - Some active work is private when it touches trading research, infrastructure, product experiments, or unreleased games.
 
----
+## Activity
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alexanderwanyoike&show_icons=true&hide_border=true&theme=transparent">
+  <a href="https://github.com/alexanderwanyoike">
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alexanderwanyoike&theme=github-compact&hide_border=true">
+  </a>
 </p>
