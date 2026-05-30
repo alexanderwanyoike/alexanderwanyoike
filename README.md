@@ -31,12 +31,12 @@ Most of my work sits around:
 
 | Area | What I am building |
 | --- | --- |
-| Trading systems | [`the0`](https://github.com/alexanderwanyoike/the0), Alpha Neuron research, broker libraries, runtime infrastructure |
+| Trading systems | [`the0`](https://github.com/alexanderwanyoike/the0), broker integrations, evaluation tooling, runtime infrastructure |
 | Kubernetes and ops | Helm charts, deployment runbooks, container hardening, sealed secrets, local and production cluster workflows |
 | Distributed web | [`jolt`](https://github.com/alexanderwanyoike/jolt), [`libp2p-dcutr`](https://github.com/alexanderwanyoike/libp2p-dcutr), transport experiments |
 | Creative tools | [`clipforge`](https://github.com/alexanderwanyoike/clipforge), [`forgecut`](https://github.com/alexanderwanyoike/forgecut), [`ai-img`](https://github.com/alexanderwanyoike/ai-img), [`meshmaker`](https://github.com/alexanderwanyoike/meshmaker) |
-| Game experiments | Private Godot and Unreal prototypes, multiplayer systems, rhythm mechanics, arena FPS design |
-| Product experiments | `b1z`, `freq`, `showbiz`, `vibez`, `horus` |
+| Game experiments | Godot and Unreal prototypes, multiplayer systems, rhythm mechanics, arena FPS design |
+| Product experiments | Business software, ticketing systems, creative apps, audio tools, and AI-assisted workflows |
 
 ## Projects Worth Opening
 
@@ -44,7 +44,7 @@ Most of my work sits around:
 
 An open-source algorithmic trading engine focused on running, deploying, and managing trading bots without turning operations into a second job.
 
-The work around it includes Kubernetes deployment, Helm packaging, container runtime hardening, local Docker workflows, production runbooks, and infrastructure for Alpha Neuron research.
+The work around it includes Kubernetes deployment, Helm packaging, container runtime hardening, local Docker workflows, and production runbooks.
 
 ### [`jolt`](https://github.com/alexanderwanyoike/jolt)
 
@@ -80,7 +80,7 @@ Shell       deployment glue, infra workflows
 - I prefer tools that can run locally, be self-hosted, or be automated.
 - I build a lot of prototypes, then keep the ones that teach me something or become useful.
 - I am usually happiest close to the runtime: Kubernetes, containers, brokers, media pipelines, event loops, sockets, and deployment edges.
-- Some active work is private when it touches trading research, infrastructure, product experiments, or unreleased games.
+- Some active work stays private until it is ready to be useful publicly.
 
 ## Activity
 
