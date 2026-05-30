@@ -6,16 +6,16 @@
 
 <p align="center">
   <a href="https://github.com/alexanderwanyoike/the0">
-    <img alt="the0" src="https://img.shields.io/badge/the0-algorithmic%20trading-111827?style=for-the-badge">
+    <img alt="algorithmic trading" src="https://img.shields.io/badge/algorithmic%20trading-runtime%20systems-111827?style=for-the-badge">
   </a>
   <a href="https://github.com/alexanderwanyoike/jolt">
-    <img alt="distributed web" src="https://img.shields.io/badge/distributed%20web-rust-7c2d12?style=for-the-badge">
+    <img alt="distributed systems" src="https://img.shields.io/badge/distributed%20systems-rust%20%2B%20p2p-7c2d12?style=for-the-badge">
   </a>
+  <img alt="kubernetes operations" src="https://img.shields.io/badge/kubernetes-deploy%20%2B%20operate-2563eb?style=for-the-badge">
+  <img alt="godot games" src="https://img.shields.io/badge/godot-gameplay%20systems-478cbf?style=for-the-badge">
   <a href="https://github.com/alexanderwanyoike/clipforge">
-    <img alt="creative tooling" src="https://img.shields.io/badge/creative%20tools-video%20%2B%20audio-0f766e?style=for-the-badge">
+    <img alt="creator tools" src="https://img.shields.io/badge/creator%20tools-media%20%2B%203d-0f766e?style=for-the-badge">
   </a>
-  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-infra%20%2B%20runtime-2563eb?style=for-the-badge">
-  <img alt="godot" src="https://img.shields.io/badge/godot-game%20systems-478cbf?style=for-the-badge">
 </p>
 
 ---
