@@ -5,17 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexanderwanyoike/the0">
-    <img alt="algorithmic trading" src="https://img.shields.io/badge/algorithmic%20trading-runtime%20systems-111827?style=for-the-badge">
-  </a>
-  <a href="https://github.com/alexanderwanyoike/jolt">
-    <img alt="distributed systems" src="https://img.shields.io/badge/distributed%20systems-rust%20%2B%20p2p-7c2d12?style=for-the-badge">
-  </a>
-  <img alt="kubernetes operations" src="https://img.shields.io/badge/kubernetes-deploy%20%2B%20operate-2563eb?style=for-the-badge">
-  <img alt="godot games" src="https://img.shields.io/badge/godot-gameplay%20systems-478cbf?style=for-the-badge">
-  <a href="https://github.com/alexanderwanyoike/clipforge">
-    <img alt="creator tools" src="https://img.shields.io/badge/creator%20tools-media%20%2B%203d-0f766e?style=for-the-badge">
-  </a>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white">
 </p>
 
 ---
