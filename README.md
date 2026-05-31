@@ -36,7 +36,6 @@ Most of my work sits around:
 | Distributed web | [`jolt`](https://github.com/alexanderwanyoike/jolt), [`libp2p-dcutr`](https://github.com/alexanderwanyoike/libp2p-dcutr), transport experiments |
 | Creative tools | [`clipforge`](https://github.com/alexanderwanyoike/clipforge), [`forgecut`](https://github.com/alexanderwanyoike/forgecut), [`ai-img`](https://github.com/alexanderwanyoike/ai-img), [`meshmaker`](https://github.com/alexanderwanyoike/meshmaker) |
 | Game experiments | Godot and Unreal prototypes, multiplayer systems, rhythm mechanics, arena FPS design |
-| Product experiments | Business software, ticketing systems, creative apps, audio tools, and AI-assisted workflows |
 
 ## Projects Worth Opening
 
